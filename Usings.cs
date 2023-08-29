@@ -1,0 +1,14 @@
+global using NUnit.Framework;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Chrome;
+global using OpenQA.Selenium.Edge;
+global using OpenQA.Selenium.Firefox;
+global using OpenQA.Selenium.Support.UI;
+global using SeleniumExtras.WaitHelpers;
+global using POMJulyBatch_Task.BaseHooks;
+global using POMJulyBatch_Task.UsefullMethods;
+global using POMJulyBatch_Task.PageObjects;
+global using Microsoft.Extensions.Configuration;
+global using POMJulyBatch_Task.utilities;
+global using WebDriverManager;
+global using WebDriverManager.DriverConfigs.Impl;
